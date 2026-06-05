@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.3",
+    "@notionhq/client": "^5.22.0"
+  }
+}
